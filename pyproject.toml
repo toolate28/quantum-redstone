@@ -1,0 +1,84 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "quantum-redstone"
+version = "0.1.0"
+description = "Quantum computing concepts implemented using Minecraft Redstone mechanics"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+    {name = "Hope&&Sauced Collaborative"},
+    {name = "Zaiken C", email = ""},
+]
+keywords = ["quantum", "minecraft", "redstone", "education", "viviani", "topology"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Education",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Education",
+    "Topic :: Scientific/Engineering :: Physics",
+    "Topic :: Games/Entertainment",
+]
+
+dependencies = [
+    "numpy>=1.24.0",
+    "matplotlib>=3.7.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "pytest-cov>=4.0",
+    "jupyter>=1.0.0",
+    "ipython>=8.0.0",
+]
+cad = [
+    "ezdxf>=1.0.0",
+    "numpy-stl>=3.0.0",
+    "pillow>=10.0.0",
+]
+all = ["quantum-redstone[dev,cad]"]
+
+[project.urls]
+Homepage = "https://github.com/toolate28/quantum-redstone"
+Documentation = "https://github.com/toolate28/quantum-redstone/blob/master/README.md"
+Repository = "https://github.com/toolate28/quantum-redstone"
+"Bug Tracker" = "https://github.com/toolate28/quantum-redstone/issues"
+
+[project.scripts]
+quantum-redstone = "quantum_circuit_generator:main"
+qr-generate = "quantum_circuit_generator:main"
+qr-export-cad = "export_cad:main"
+
+[tool.setuptools]
+packages = ["quantum_redstone"]
+
+[tool.setuptools.package-data]
+quantum_redstone = ["*.json", "*.md"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = "test_*.py"
+python_classes = "Test*"
+python_functions = "test_*"
+
+[tool.coverage.run]
+source = ["quantum_redstone"]
+omit = ["tests/*", "setup.py"]
+
+[tool.coverage.report]
+exclude_lines = [
+    "pragma: no cover",
+    "def __repr__",
+    "raise AssertionError",
+    "raise NotImplementedError",
+    "if __name__ == .__main__.:",
+]
