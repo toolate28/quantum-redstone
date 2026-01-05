@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3100" height="1100" xmlns="http://www.w3.org/2000/svg">
+  <title>phase_evolution_engine</title>
+  <rect width="3100" height="1100" fill="#f0f0f0"/>
+  <rect x="2050" y="650" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="2050" y="750" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="2100" y="650" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="2100" y="750" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="2150" y="650" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="2150" y="750" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="2200" y="650" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="2200" y="750" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="2250" y="650" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="2250" y="750" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="2300" y="650" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="2300" y="750" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="2350" y="650" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="2350" y="750" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="2400" y="650" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="2400" y="750" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="2450" y="650" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="2450" y="750" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="2500" y="650" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="2500" y="750" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="2550" y="650" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="2550" y="750" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="2600" y="650" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="2600" y="750" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="2650" y="650" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="2650" y="750" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="2700" y="650" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="2700" y="750" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="2750" y="650" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="2750" y="750" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="550" y="550" width="50" height="50" fill="rgb(80,80,80)" stroke="black" stroke-width="1"/>
+  <rect x="550" y="600" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="575" y="630" text-anchor="middle" font-size="10">comp</text>
+  <rect x="650" y="550" width="50" height="50" fill="rgb(80,80,80)" stroke="black" stroke-width="1"/>
+  <rect x="650" y="600" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="675" y="630" text-anchor="middle" font-size="10">comp</text>
+  <rect x="750" y="550" width="50" height="50" fill="rgb(80,80,80)" stroke="black" stroke-width="1"/>
+  <rect x="750" y="600" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="775" y="630" text-anchor="middle" font-size="10">comp</text>
+  <rect x="850" y="550" width="50" height="50" fill="rgb(80,80,80)" stroke="black" stroke-width="1"/>
+  <rect x="850" y="600" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="875" y="630" text-anchor="middle" font-size="10">comp</text>
+  <rect x="850" y="650" width="50" height="50" fill="rgb(80,80,80)" stroke="black" stroke-width="1"/>
+  <rect x="850" y="700" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="875" y="730" text-anchor="middle" font-size="10">comp</text>
+  <rect x="850" y="750" width="50" height="50" fill="rgb(80,80,80)" stroke="black" stroke-width="1"/>
+  <rect x="850" y="800" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="875" y="830" text-anchor="middle" font-size="10">comp</text>
+  <rect x="850" y="850" width="50" height="50" fill="rgb(80,80,80)" stroke="black" stroke-width="1"/>
+  <rect x="850" y="900" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="875" y="930" text-anchor="middle" font-size="10">comp</text>
+  <rect x="850" y="950" width="50" height="50" fill="rgb(80,80,80)" stroke="black" stroke-width="1"/>
+  <rect x="850" y="1000" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="875" y="1030" text-anchor="middle" font-size="10">comp</text>
+  <rect x="750" y="950" width="50" height="50" fill="rgb(80,80,80)" stroke="black" stroke-width="1"/>
+  <rect x="750" y="1000" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="775" y="1030" text-anchor="middle" font-size="10">comp</text>
+  <rect x="650" y="950" width="50" height="50" fill="rgb(80,80,80)" stroke="black" stroke-width="1"/>
+  <rect x="650" y="1000" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="675" y="1030" text-anchor="middle" font-size="10">comp</text>
+  <rect x="550" y="950" width="50" height="50" fill="rgb(80,80,80)" stroke="black" stroke-width="1"/>
+  <rect x="550" y="1000" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="575" y="1030" text-anchor="middle" font-size="10">comp</text>
+  <rect x="550" y="850" width="50" height="50" fill="rgb(80,80,80)" stroke="black" stroke-width="1"/>
+  <rect x="550" y="900" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="575" y="930" text-anchor="middle" font-size="10">comp</text>
+  <rect x="550" y="750" width="50" height="50" fill="rgb(80,80,80)" stroke="black" stroke-width="1"/>
+  <rect x="550" y="800" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="575" y="830" text-anchor="middle" font-size="10">comp</text>
+  <rect x="550" y="650" width="50" height="50" fill="rgb(80,80,80)" stroke="black" stroke-width="1"/>
+  <rect x="550" y="700" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="575" y="730" text-anchor="middle" font-size="10">comp</text>
+  <rect x="650" y="750" width="50" height="50" fill="rgb(80,80,80)" stroke="black" stroke-width="1"/>
+  <rect x="650" y="800" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="675" y="830" text-anchor="middle" font-size="10">comp</text>
+  <rect x="750" y="750" width="50" height="50" fill="rgb(80,80,80)" stroke="black" stroke-width="1"/>
+  <rect x="750" y="800" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="775" y="830" text-anchor="middle" font-size="10">comp</text>
+  <rect x="1050" y="550" width="50" height="50" fill="rgb(165,115,64)" stroke="black" stroke-width="1"/>
+  <rect x="1100" y="550" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="1125" y="580" text-anchor="middle" font-size="10">comp</text>
+  <rect x="1150" y="550" width="50" height="50" fill="rgb(165,115,64)" stroke="black" stroke-width="1"/>
+  <rect x="1200" y="550" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="1225" y="580" text-anchor="middle" font-size="10">comp</text>
+  <rect x="1250" y="550" width="50" height="50" fill="rgb(165,115,64)" stroke="black" stroke-width="1"/>
+  <rect x="1300" y="550" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="1325" y="580" text-anchor="middle" font-size="10">comp</text>
+  <rect x="1350" y="550" width="50" height="50" fill="rgb(165,115,64)" stroke="black" stroke-width="1"/>
+  <rect x="1400" y="550" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="1425" y="580" text-anchor="middle" font-size="10">comp</text>
+  <rect x="1450" y="550" width="50" height="50" fill="rgb(165,115,64)" stroke="black" stroke-width="1"/>
+  <rect x="1500" y="550" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="1525" y="580" text-anchor="middle" font-size="10">comp</text>
+  <rect x="1550" y="550" width="50" height="50" fill="rgb(165,115,64)" stroke="black" stroke-width="1"/>
+  <rect x="1600" y="550" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="1625" y="580" text-anchor="middle" font-size="10">comp</text>
+  <rect x="1650" y="550" width="50" height="50" fill="rgb(165,115,64)" stroke="black" stroke-width="1"/>
+  <rect x="1700" y="550" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="1725" y="580" text-anchor="middle" font-size="10">comp</text>
+  <rect x="1750" y="550" width="50" height="50" fill="rgb(165,115,64)" stroke="black" stroke-width="1"/>
+  <rect x="1800" y="550" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="1825" y="580" text-anchor="middle" font-size="10">comp</text>
+  <rect x="1050" y="750" width="50" height="50" fill="rgb(165,115,64)" stroke="black" stroke-width="1"/>
+  <rect x="1100" y="750" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="1125" y="780" text-anchor="middle" font-size="10">comp</text>
+  <rect x="1150" y="750" width="50" height="50" fill="rgb(165,115,64)" stroke="black" stroke-width="1"/>
+  <rect x="1200" y="750" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="1225" y="780" text-anchor="middle" font-size="10">comp</text>
+  <rect x="1250" y="750" width="50" height="50" fill="rgb(165,115,64)" stroke="black" stroke-width="1"/>
+  <rect x="1300" y="750" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="1325" y="780" text-anchor="middle" font-size="10">comp</text>
+  <rect x="1350" y="750" width="50" height="50" fill="rgb(165,115,64)" stroke="black" stroke-width="1"/>
+  <rect x="1400" y="750" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="1425" y="780" text-anchor="middle" font-size="10">comp</text>
+  <rect x="1450" y="750" width="50" height="50" fill="rgb(165,115,64)" stroke="black" stroke-width="1"/>
+  <rect x="1500" y="750" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="1525" y="780" text-anchor="middle" font-size="10">comp</text>
+  <rect x="1550" y="750" width="50" height="50" fill="rgb(165,115,64)" stroke="black" stroke-width="1"/>
+  <rect x="1600" y="750" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="1625" y="780" text-anchor="middle" font-size="10">comp</text>
+  <rect x="1650" y="750" width="50" height="50" fill="rgb(165,115,64)" stroke="black" stroke-width="1"/>
+  <rect x="1700" y="750" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="1725" y="780" text-anchor="middle" font-size="10">comp</text>
+  <rect x="1750" y="750" width="50" height="50" fill="rgb(165,115,64)" stroke="black" stroke-width="1"/>
+  <rect x="1800" y="750" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="1825" y="780" text-anchor="middle" font-size="10">comp</text>
+  <rect x="1850" y="650" width="50" height="50" fill="rgb(255,0,0)" stroke="black" stroke-width="1"/>
+  <rect x="1900" y="650" width="50" height="50" fill="rgb(255,0,0)" stroke="black" stroke-width="1"/>
+  <rect x="1950" y="650" width="50" height="50" fill="rgb(255,0,0)" stroke="black" stroke-width="1"/>
+  <rect x="2000" y="650" width="50" height="50" fill="rgb(255,0,0)" stroke="black" stroke-width="1"/>
+  <rect x="1850" y="750" width="50" height="50" fill="rgb(255,0,0)" stroke="black" stroke-width="1"/>
+  <rect x="1900" y="750" width="50" height="50" fill="rgb(255,0,0)" stroke="black" stroke-width="1"/>
+  <rect x="1950" y="750" width="50" height="50" fill="rgb(255,0,0)" stroke="black" stroke-width="1"/>
+  <rect x="2000" y="750" width="50" height="50" fill="rgb(255,0,0)" stroke="black" stroke-width="1"/>
+</svg>

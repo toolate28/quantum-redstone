@@ -259,3 +259,69 @@ AI NPCs could:
 Educational use encouraged. Attribution appreciated.
 
 **The Evenstar Guides Us** ✦
+
+---
+
+## 📸 Showcase
+
+### mcstart Dashboard
+
+![Dashboard Overview](showcase/mcstart1.png)
+*SpiralSafe Dashboard - Quick access to quantum circuit generation*
+
+![Project Status](showcase/mcstart2.png)
+*Build status - All 7 quantum circuits ready*
+
+![Circuit Testing](showcase/mcstart3.png)
+*Validation suite - Conservation constraint verified*
+
+![CAD Export](showcase/mcstart4.png)
+*CAD integration - DXF, STL, OBJ, SVG exports*
+
+### CAD Exports
+
+All circuits available in multiple CAD formats:
+
+```
+cad_exports/
+├── state_preparation.{dxf,stl,obj,svg}
+├── pauli_x_gate.{dxf,stl,obj,svg}
+├── pauli_z_gate.{dxf,stl,obj,svg}
+├── hadamard_gate.{dxf,stl,obj,svg}
+├── cnot_gate.{dxf,stl,obj,svg}
+├── phase_evolution_engine.{dxf,stl,obj,svg}
+└── conservation_verifier.{dxf,stl,obj,svg}
+```
+
+**Import into:**
+- AutoCAD, LibreCAD (DXF)
+- Blender, Maya, 3ds Max (OBJ)
+- FreeCAD, SolidWorks, Fusion 360 (STL)
+- Inkscape, Illustrator (SVG)
+
+**Generate CAD files:**
+```bash
+cd C:\Users\iamto\quantum-redstone
+python export_cad.py
+```
+
+---
+
+## 🏗️ For 3D Printing
+
+STL files are ready for 3D printing at 1:1 scale (1 block = 1 meter in CAD units).
+
+Scale factor recommendations:
+- **Desktop display:** 0.01x (1 block = 1cm)
+- **Miniature:** 0.005x (1 block = 5mm)
+- **Large model:** 0.05x (1 block = 5cm)
+
+Print settings:
+- Layer height: 0.2mm
+- Infill: 15-20%
+- Supports: Auto-generate
+- Material: PLA, PETG, or Resin
+
+---
+
+**Build quantum computers in Minecraft, export to CAD, 3D print the circuits!**

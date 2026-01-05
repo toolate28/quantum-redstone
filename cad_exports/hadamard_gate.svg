@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="850" height="600" xmlns="http://www.w3.org/2000/svg">
+  <title>hadamard_gate</title>
+  <rect width="850" height="600" fill="#f0f0f0"/>
+  <rect x="400" y="200" width="50" height="50" fill="rgb(128,128,128)" stroke="black" stroke-width="1"/>
+  <rect x="400" y="250" width="50" height="50" fill="rgb(128,128,128)" stroke="black" stroke-width="1"/>
+  <rect x="400" y="200" width="50" height="50" fill="rgb(128,128,128)" stroke="black" stroke-width="1"/>
+  <rect x="400" y="200" width="50" height="50" fill="rgb(100,100,100)" stroke="black" stroke-width="1"/>
+  <rect x="300" y="200" width="50" height="50" fill="rgb(165,115,64)" stroke="black" stroke-width="1"/>
+  <rect x="350" y="200" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="375" y="230" text-anchor="middle" font-size="10">comp</text>
+  <rect x="500" y="200" width="50" height="50" fill="rgb(165,115,64)" stroke="black" stroke-width="1"/>
+  <rect x="450" y="200" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="475" y="230" text-anchor="middle" font-size="10">comp</text>
+  <rect x="350" y="200" width="50" height="50" fill="rgb(80,80,80)" stroke="black" stroke-width="1"/>
+  <rect x="450" y="200" width="50" height="50" fill="rgb(80,80,80)" stroke="black" stroke-width="1"/>
+  <rect x="350" y="150" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="375" y="180" text-anchor="middle" font-size="10">comp</text>
+  <rect x="450" y="150" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="475" y="180" text-anchor="middle" font-size="10">comp</text>
+</svg>

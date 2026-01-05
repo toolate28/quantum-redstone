@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="250" xmlns="http://www.w3.org/2000/svg">
+  <title>state_preparation</title>
+  <rect width="600" height="250" fill="#f0f0f0"/>
+  <rect x="50" y="100" width="50" height="50" fill="rgb(139,69,19)" stroke="black" stroke-width="1"/>
+  <text x="75" y="130" text-anchor="middle" font-size="10">leve</text>
+  <rect x="100" y="50" width="50" height="50" fill="rgb(255,100,0)" stroke="black" stroke-width="1"/>
+  <text x="125" y="80" text-anchor="middle" font-size="10">reds</text>
+  <rect x="100" y="100" width="50" height="50" fill="rgb(255,0,0)" stroke="black" stroke-width="1"/>
+  <rect x="150" y="100" width="50" height="50" fill="rgb(255,0,0)" stroke="black" stroke-width="1"/>
+  <rect x="200" y="100" width="50" height="50" fill="rgb(255,0,0)" stroke="black" stroke-width="1"/>
+  <rect x="250" y="100" width="50" height="50" fill="rgb(255,0,0)" stroke="black" stroke-width="1"/>
+  <rect x="300" y="100" width="50" height="50" fill="rgb(255,0,0)" stroke="black" stroke-width="1"/>
+  <rect x="350" y="100" width="50" height="50" fill="rgb(255,0,0)" stroke="black" stroke-width="1"/>
+  <rect x="100" y="50" width="50" height="50" fill="rgb(128,128,128)" stroke="black" stroke-width="1"/>
+  <rect x="150" y="50" width="50" height="50" fill="rgb(255,0,0)" stroke="black" stroke-width="1"/>
+  <rect x="200" y="50" width="50" height="50" fill="rgb(255,0,0)" stroke="black" stroke-width="1"/>
+  <rect x="250" y="50" width="50" height="50" fill="rgb(255,0,0)" stroke="black" stroke-width="1"/>
+  <rect x="300" y="50" width="50" height="50" fill="rgb(255,0,0)" stroke="black" stroke-width="1"/>
+  <rect x="350" y="50" width="50" height="50" fill="rgb(255,0,0)" stroke="black" stroke-width="1"/>
+  <rect x="400" y="100" width="50" height="50" fill="rgb(128,128,128)" stroke="black" stroke-width="1"/>
+  <rect x="400" y="50" width="50" height="50" fill="rgb(128,128,128)" stroke="black" stroke-width="1"/>
+</svg>

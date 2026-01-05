@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="350" xmlns="http://www.w3.org/2000/svg">
+  <title>conservation_verifier</title>
+  <rect width="600" height="350" fill="#f0f0f0"/>
+  <rect x="350" y="100" width="50" height="50" fill="rgb(255,100,0)" stroke="black" stroke-width="1"/>
+  <text x="375" y="130" text-anchor="middle" font-size="10">reds</text>
+  <rect x="450" y="100" width="50" height="50" fill="rgb(255,200,100)" stroke="black" stroke-width="1"/>
+  <rect x="50" y="150" width="50" height="50" fill="rgb(255,0,0)" stroke="black" stroke-width="1"/>
+  <rect x="100" y="150" width="50" height="50" fill="rgb(255,0,0)" stroke="black" stroke-width="1"/>
+  <rect x="50" y="50" width="50" height="50" fill="rgb(255,0,0)" stroke="black" stroke-width="1"/>
+  <rect x="100" y="50" width="50" height="50" fill="rgb(255,0,0)" stroke="black" stroke-width="1"/>
+  <rect x="150" y="250" width="50" height="50" fill="rgb(200,0,0)" stroke="black" stroke-width="1"/>
+  <rect x="150" y="100" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="175" y="130" text-anchor="middle" font-size="10">comp</text>
+  <rect x="150" y="50" width="50" height="50" fill="rgb(255,0,0)" stroke="black" stroke-width="1"/>
+  <rect x="150" y="150" width="50" height="50" fill="rgb(255,0,0)" stroke="black" stroke-width="1"/>
+  <rect x="250" y="100" width="50" height="50" fill="rgb(200,50,50)" stroke="black" stroke-width="1"/>
+  <text x="275" y="130" text-anchor="middle" font-size="10">comp</text>
+  <rect x="350" y="100" width="50" height="50" fill="rgb(128,128,128)" stroke="black" stroke-width="1"/>
+  <rect x="400" y="100" width="50" height="50" fill="rgb(255,0,0)" stroke="black" stroke-width="1"/>
+  <rect x="450" y="100" width="50" height="50" fill="rgb(128,128,128)" stroke="black" stroke-width="1"/>
+</svg>
