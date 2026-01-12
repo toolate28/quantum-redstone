@@ -34,6 +34,9 @@ quantum-redstone/
 ├── quantum_circuit_generator.py    # Main generator (639 lines)
 ├── quantum_circuits.json           # All 7 circuit definitions
 ├── phase_lookup_table.json         # 16-step cos²/sin² table
+├── quantum_redstone_verification.ipynb  # Comprehensive verification notebook
+├── quantum.ipynb                   # Quantum computing foundations notebook
+├── HOPENPC.ipynb                   # ClaudeNPC integration notebook
 ├── mcfunctions/                    # Minecraft function files
 │   ├── place_state_preparation.mcfunction
 │   ├── place_pauli_x_gate.mcfunction
@@ -72,6 +75,67 @@ Output:
    ```
 
 3. Circuits will build at your current location (relative positioning)
+
+## Interactive Notebooks
+
+The framework includes three Jupyter notebooks for exploration, learning, and integration:
+
+### 1. `quantum_redstone_verification.ipynb` - Comprehensive Verification
+**Focus:** Complete testing and validation suite
+
+Features:
+- Two-rail encoding validation across full phase range
+- Phase evolution testing with 16-step lookup table
+- Viviani curve 3D visualization
+- All 7 quantum gates verification
+- CAD export verification
+- Conservation constraint stress testing
+- End-to-end integration tests
+
+**Use case:** Verify framework correctness, run tests, validate exports
+
+### 2. `quantum.ipynb` - Quantum Computing Foundations
+**Focus:** Mathematical theory and quantum gate operations
+
+Features:
+- Bloch sphere visualization of quantum states
+- Quantum gate mathematics (Pauli, Hadamard, CNOT)
+- Unitary transformations and probability conservation
+- Phase space and Viviani curve topology
+- Quantum entanglement and Bell states
+- Measurement theory and Born rule
+- Quantum algorithms (Deutsch algorithm demo)
+
+**Use case:** Learn quantum computing theory, understand mathematical foundations, study advanced concepts
+
+### 3. `HOPENPC.ipynb` - ClaudeNPC Integration & Python Bridge
+**Focus:** AI-powered building and real-world deployment
+
+Features:
+- Python Bridge architecture for language → code → world pipeline
+- ClaudeNPC conversation simulator
+- Interactive circuit building with position management
+- Real-time mcfunction generation
+- AI observer pattern for circuit recognition
+- Educational curriculum management
+- Multi-circuit orchestration for quantum algorithms
+
+**Use case:** Deploy AI NPCs, build interactively, create educational experiences, automate circuit generation
+
+### Running the Notebooks
+
+```bash
+# Install dependencies
+pip install jupyter numpy matplotlib
+
+# Launch Jupyter
+jupyter notebook
+
+# Open any notebook:
+# - quantum_redstone_verification.ipynb
+# - quantum.ipynb
+# - HOPENPC.ipynb
+```
 
 ## Integration with ClaudeNPC
 
